@@ -18,7 +18,7 @@ This marketplace provides four powerful plugins for architectural documentation 
 To use these plugins, first add this marketplace to Claude Code:
 
 ```bash
-/plugin marketplace add devfullcycle/claude-mkt-place
+/plugin marketplace add forgestop/claude-mkt-place
 ```
 
 This command adds the GitHub repository as a plugin marketplace source.
@@ -41,7 +41,7 @@ After adding the marketplace, install individual plugins:
 /plugin install development-guidelines@devfullcycle
 ```
 
-**Note**: The marketplace identifier (`devfullcycle`) is derived from the GitHub organization/username. After adding the marketplace, you can also browse available plugins using:
+**Note**: The marketplace identifier (`forgestop`) is derived from the GitHub organization/username. After adding the marketplace, you can also browse available plugins using:
 
 ```bash
 /plugin
